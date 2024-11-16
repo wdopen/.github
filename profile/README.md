@@ -1,7 +1,7 @@
 <table align="center">
   <td colspan="6">
     <h2>WDOPEN组织</h2>
-    <p>我们是WDOPEN组织，作为Wikidot非官方的民间组织存在，将持续在Wikidot内为增进民间自治力量、发展用户知识和能力并促进相关知识传播而投入微不足道的力量。</p>
+    <p>我们是WDOPEN组织，作为Wikidot非官方的民间自治组织，将持续在Wikidot为增进民间自治力量、发展用户知识能力并促进知识传播而投入微不足道的力量。</p>
     <p>我们的使命是「<strong>增长成员能力，促进维基互通</strong>」，并将为此：</p>
     <ul>
       <li>传播维基知识和信息</li>
