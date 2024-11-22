@@ -13,7 +13,7 @@
     <td colspan="6">
       <p>本组织是Wikidot的非官方民间组织，我们不能代表Wikidot官方和其任何态度。</p>
       <p>除非特别声明，否则我们的创作内容均适用CC BY-SA授权方式。我们不能完全保证但追求创作内容的准确性和及时性，创作内容中提及的商标均由其各自所有人拥有。</p>
-      <p>Logo图标由<a href="https://www.wikidot.com/user:info/rzx-story">RZX STORY</a>为WDOPEN制作，不遵循CC协议，使用时请注意署名。</p>
+      <p>图标由<a href="https://www.wikidot.com/user:info/rzx-story">RZX STORY</a>为WDOPEN制作，不遵循CC协议，使用时请注意署名。</p>
     </td>
   </tbody>    
 </table>
